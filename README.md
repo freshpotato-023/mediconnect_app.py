@@ -1,2 +1,1 @@
-# mediconnect_app.py
-An application about medicine
+"admin@mediconnect.com" / "admin123"
